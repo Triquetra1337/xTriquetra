@@ -7,6 +7,6 @@
 <h1>My Favorites</h1>
 <a href="https://nodejs.org/en/" target"blank_"><img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A"></a>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=xTriquetra&count_private=true&show_icons=true&theme=purple&hide_border=true" width="%100" height="150px" alt="stats" />
 </p>
