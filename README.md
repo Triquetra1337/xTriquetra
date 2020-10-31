@@ -7,7 +7,7 @@
   
   <a href="https://github.com/xTriquetra" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
  
-</p>
+
 <a href="https://www.twitch.tv/xtriquetra" target"blank_"><img src="https://img.shields.io/badge/TWITCH%20-840daa.svg?&style=for-the-badge&logo=twitch&logoColor=black"</a>
 
   
