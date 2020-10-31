@@ -6,7 +6,7 @@
 
 
 </p>
-#### My Favorites
+<h1>My Favorites</h1>
 <a href="https://nodejs.org/en/" target"blank_"><img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A"></a>
 
 <p align="center">
