@@ -1,4 +1,4 @@
-<p">
+<p>
   <a href="https://discord.com/users/356015194045939713" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://open.spotify.com/user/oo3ndfg980iy4vxtb3mjly16p" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://instagram.com/triquetrasecurity" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
