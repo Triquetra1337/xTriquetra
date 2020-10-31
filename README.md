@@ -9,7 +9,7 @@
  
 
 <a href="https://www.twitch.tv/xtriquetra" target"blank_"><img src="https://img.shields.io/badge/TWITCH%20-840daa.svg?&style=for-the-badge&logo=twitch&logoColor=black"></a>
-<p>
+</p>
   
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xTriquetra&count_private=true&show_icons=true&theme=purple&hide_border=true" width="%100" height="150px" alt="stats" />
